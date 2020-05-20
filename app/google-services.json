@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "161585353089",
+    "firebase_url": "https://mobivision-5f8cf.firebaseio.com",
+    "project_id": "mobivision-5f8cf",
+    "storage_bucket": "mobivision-5f8cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161585353089:android:875826f41b75eba4",
+        "android_client_info": {
+          "package_name": "com.example.android.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161585353089-iq3bu205v70tnhs3rpc38cbh1fejnnu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.myapplication",
+            "certificate_hash": "e994572d80aa33ef52be1c3b7369e23cd1893a34"
+          }
+        },
+        {
+          "client_id": "161585353089-5178mh5uobc666394p140d0jrn9g6srp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV-P4Dx-jtSeni_5bD-S1o4cK4gtDZjHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161585353089-5178mh5uobc666394p140d0jrn9g6srp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
